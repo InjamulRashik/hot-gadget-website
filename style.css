@@ -25,3 +25,30 @@ body {
 .carousel p {
   color: dimgray;
 }
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px lightgrey;
+}
+.card-title {
+  font-weight: 700;
+}
+.phones p {
+  color: dimgray;
+}
+.price {
+  font-weight: 700;
+}
+.phones {
+  margin-top: 100px;
+}
+.div-title {
+  margin-bottom: 15px;
+}
+.div-title h3 {
+  font-weight: 700;
+}
+.div-title a {
+  font-weight: 700;
+  color: orange;
+}
