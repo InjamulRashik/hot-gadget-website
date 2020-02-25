@@ -26,9 +26,10 @@ body {
   color: dimgray;
 }
 .card {
+  box-shadow: 10px 10px 40px rgba(128, 128, 128, 0.418);
   border: none;
   border-radius: 10px;
-  box-shadow: 5px 5px 5px lightgrey;
+  border: whitesmoke;
 }
 .card-title {
   font-weight: 700;
