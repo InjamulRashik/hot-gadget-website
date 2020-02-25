@@ -52,3 +52,9 @@ body {
   font-weight: 700;
   color: orange;
 }
+.laptops p {
+  color: dimgray;
+}
+.laptops {
+  margin-top: 100px;
+}
