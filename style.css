@@ -1,6 +1,13 @@
 body {
   font-family: "Poppins";
 }
+.car-bg {
+  background-color: white;
+  border-radius: 10px;
+}
+.carousel-item {
+  padding: 20px 40px;
+}
 .carousel-indicators li {
   display: inline-block;
   margin-top: 50%;
