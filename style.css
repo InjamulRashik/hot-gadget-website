@@ -1,0 +1,27 @@
+body {
+  font-family: "Poppins";
+}
+.carousel-indicators li {
+  display: inline-block;
+  margin-top: 50%;
+  border-radius: 10px;
+  text-indent: 0;
+  cursor: pointer;
+  border: none;
+  background-color: lightgrey;
+}
+.carousel-indicators .active {
+  background-color: orange;
+}
+.buy-button {
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 9px 25px;
+  cursor: pointer;
+  font-weight: bold;
+}
+.carousel p {
+  color: dimgray;
+}
